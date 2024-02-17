@@ -1,0 +1,44 @@
+2024-02-17 11:39:21 INFO ====== WebDriver manager ======
+2024-02-17 11:39:22 INFO Get LATEST geckodriver version for 117.0 firefox
+2024-02-17 11:39:23 INFO Get LATEST geckodriver version for 117.0 firefox
+2024-02-17 11:39:23 INFO Driver [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.34.0\geckodriver.exe] found in cache
+2024-02-17 11:39:29 INFO Test1 starting
+2024-02-17 11:39:30 INFO Send test to element //*[@id="login"]/div[1]/label/input
+2024-02-17 11:39:30 INFO Send test to element //*[@id="login"]/div[2]/label/input
+2024-02-17 11:39:30 INFO Click login button
+2024-02-17 11:39:30 INFO find text 401 in error field //*[@id="app"]/main/div/div/div[2]/h2
+2024-02-17 11:39:37 INFO ====== WebDriver manager ======
+2024-02-17 11:39:38 INFO Get LATEST geckodriver version for 117.0 firefox
+2024-02-17 11:39:38 INFO Get LATEST geckodriver version for 117.0 firefox
+2024-02-17 11:39:38 INFO Driver [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.34.0\geckodriver.exe] found in cache
+2024-02-17 11:39:44 INFO Test2 starting
+2024-02-17 11:39:45 INFO Send claudius.maximus to element //*[@id="login"]/div[1]/label/input
+2024-02-17 11:39:45 INFO Send 977547308c to element //*[@id="login"]/div[2]/label/input
+2024-02-17 11:39:45 INFO Click login button
+2024-02-17 11:39:45 INFO User
+2024-02-17 11:39:53 INFO ====== WebDriver manager ======
+2024-02-17 11:39:54 INFO Get LATEST geckodriver version for 117.0 firefox
+2024-02-17 11:39:55 INFO Get LATEST geckodriver version for 117.0 firefox
+2024-02-17 11:39:55 INFO Driver [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.34.0\geckodriver.exe] found in cache
+2024-02-17 11:40:01 INFO Test3 starting
+2024-02-17 11:40:02 INFO Send claudius.maximus to element //*[@id="login"]/div[1]/label/input
+2024-02-17 11:40:02 INFO Send 977547308c to element //*[@id="login"]/div[2]/label/input
+2024-02-17 11:40:02 INFO Click login button
+2024-02-17 11:40:02 INFO Click create new post
+2024-02-17 11:40:03 INFO new title post
+2024-02-17 11:40:03 INFO new description post
+2024-02-17 11:40:03 INFO new content post
+2024-02-17 11:40:07 INFO Click create new post
+2024-02-17 11:40:07 INFO success save post
+2024-02-17 11:40:14 INFO ====== WebDriver manager ======
+2024-02-17 11:40:16 INFO Get LATEST geckodriver version for 117.0 firefox
+2024-02-17 11:40:16 INFO Get LATEST geckodriver version for 117.0 firefox
+2024-02-17 11:40:16 INFO Driver [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.34.0\geckodriver.exe] found in cache
+2024-02-17 11:40:22 INFO Test3 starting
+2024-02-17 11:40:23 INFO Send claudius.maximus to element //*[@id="login"]/div[1]/label/input
+2024-02-17 11:40:23 INFO Send 977547308c to element //*[@id="login"]/div[2]/label/input
+2024-02-17 11:40:23 INFO Click login button
+2024-02-17 11:40:23 INFO Click contact button
+2024-02-17 11:40:25 INFO input contact name
+2024-02-17 11:40:25 INFO input contact email
+2024-02-17 11:40:25 INFO input contact content
